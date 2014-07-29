@@ -1,0 +1,26 @@
+{
+  "name": "foodcoop",
+  "version": "0.0.0",
+  "description": "base node.js server for foodcoop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jofus101/foodcoop-nodejs.git"
+  },
+  "keywords": [
+    "foodcoop",
+    "node"
+  ],
+  "author": "jofus101",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jofus101/foodcoop-nodejs/issues"
+  },
+  "homepage": "https://github.com/jofus101/foodcoop-nodejs",
+  "dependencies": {
+    "express": "^4.7.2"
+  }
+}
